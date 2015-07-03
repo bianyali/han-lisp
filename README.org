@@ -34,7 +34,7 @@ In each s-exp symbol are writen in Chinese,so han-lisp means 汉-lisp.
 
 * Contact
 
-[[bianyali.zju@gmail.com][Yali Bian]]
+Yali Bian (bianyali.zju@gmail.com)
 
 
 * License (GNU AGPLv3)
