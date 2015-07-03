@@ -1,7 +1,7 @@
 #lang racket
 
-(define (设 x y)
-  (set! x y))
+;(define (设 x y)
+;  (set! x y))
 
 (define (若 x y z)
   (if x
@@ -23,3 +23,8 @@
 (define 真 #t)
 
 (define 假 #f)
+
+
+; syntax
+(define-syntax-rule (设 x y)
+  (define x y))
