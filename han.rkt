@@ -1,5 +1,6 @@
 #lang racket
 
+(require "boolean.rkt")
 
 ; define
 (define-syntax-rule (令 x y)
