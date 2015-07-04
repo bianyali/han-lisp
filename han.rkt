@@ -47,13 +47,7 @@
   (cond x y ...))
 
 
-; define
-;(define-syntax-rule (设 x y)
-;  (define x y))
 
 ; display
 (define-syntax-rule (示 x)
   (display x))
-
-
-;
