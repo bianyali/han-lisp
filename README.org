@@ -7,6 +7,8 @@
 
 A dialect of Lisp
 
+Tanslate Scheme Language into Chinese with beautiful Chinese words and symbols.
+
 This is dialect of Lisp, writen in Racket.
 
 In each s-exp symbol are writen in Chinese,so han-lisp means 汉-lisp.
