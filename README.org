@@ -5,14 +5,13 @@
 
 * Introduction
 
-A dialect of Lisp
+  A dialect of Lisp
 
-This is dialect of Lisp, writen in Racket.
+  This is dialect of Lisp, writen in Racket.
 
-Tanslate Scheme Language into Chinese with beautiful Chinese words and symbols.
+  Tanslate Scheme Language into Chinese with beautiful Chinese words and symbols.
 
-In each s-exp symbol are writen in Chinese,so han-lisp means 汉-lisp.
-
+  In each s-exp symbol are writen in Chinese,so han-lisp means 汉-lisp.
 
 * Installation
 
@@ -21,30 +20,21 @@ In each s-exp symbol are writen in Chinese,so han-lisp means 汉-lisp.
   3. run racket
   4. type han-lisp in repl terminal
 
-
 * Demonstration
 
-(设 (函数名 输入1 输入2))
+  (设 (函数名 输入1 输入2))
 
-(若 判断条件 程序分支1 分支2)
+  (若 判断条件 程序分支1 分支2)
 
-(若 真 1 2)
-(若 假 1 2)
+  (若 真 1 2)
+  (若 假 1 2)
 
-(令 变量1 "你好，世界")
-
+  (令 变量1 "你好，世界")
 
 * Contact
 
-Yali Bian (bianyali.zju@gmail.com)
+  Yali Bian (bianyali.zju@gmail.com)
 
+* License
 
-* License (GNU AGPLv3)
-
-Copyright (c) 2015-Now Yali Bian
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+  MIT license (© 2015 Yali Bian)
